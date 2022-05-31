@@ -3,6 +3,8 @@
   Desafio do 7 days of code para colocar o conhecimento de HTML e CSS aprendidos na formação da Alura.
 
   O projeto foi enviado por uma empresa de TI, através de um design do Figma, parar criar uma página de contratações e vagas abertas.
+  
+  Projeto final:  https://amanda-portella.github.io/html_css_7daysOfCode/
 
 - ### Primeiro dia 
   Montar a nav bar da página, com o logo, menu de navegação e dois botões, um para entrar/ login e outro para cadastrar
