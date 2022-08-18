@@ -1,4 +1,5 @@
 # Projeto 7 days of code - HTML e CSS
+![Badge concluído](https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-red)
 
   Desafio do 7 days of code para colocar o conhecimento de HTML e CSS aprendidos na formação da Alura.
 
