@@ -4,27 +4,37 @@
 
   O projeto foi enviado por uma empresa de TI, através de um design do Figma, parar criar uma página de contratações e vagas abertas.
   
-  Projeto final:  https://amanda-portella.github.io/html_css_7daysOfCode/
+  
+### Deploy do Projeto
+  Link:  https://amanda-portella.github.io/html_css_7daysOfCode/
 
-- ### Primeiro dia 
+### :one:  
   Montar a nav bar da página, com o logo, menu de navegação e dois botões, um para entrar/ login e outro para cadastrar
 
-- ### Segundo dia
+### :two:
   Montar o cabeçalho, aqui é o sobre nós da empresa
 
-- ### Terceiro dia 
+### :three:
   Montar as métricas da empresa, nessa parte foi usado o display Grid, diferente das outras partes que foram usados o Flexbox
 
-- ### Quarto dia 
+### :four:
   Montar a primeira parte da seção procurando vagas
 
-- ### Quinto dia
+### :five:
   Montar a segunda parte da seção procurando vagas, aonde é feito os cards das vagas disponíveis por setor
 
-- ### Sexto dia
+### :six:
   Montar a seção de depoimentos dos colaboradores, onde é mostrado em destaques o que os colaborades acham da empresa.
 
-- ### Sétimo dia
+### :seven:
   Montar o rodapé da página, onde se encontra um formulário para enviar o endereço de e-mail para receber informações de novas vagas.
 
-  Até o momento foi usado muito o conceito de flexbox e grid para poder posicionar os elementos na tela, além de também usar variáveis do CSS para otimizar o uso de código que se repetem muito, como cores, tamanhos e fonte de texto. Também foi usado na montagem do CSS a metodologia BEM. E no código HTML foi usado as tags que dão uma melhor semântica ao código.
+
+### :white_check_mark: Técnicas e Tecnologias usadas
+
+  - ``Flexbox`` 
+  - ``Grid`` 
+  - ``Variáveis CSS``
+  - ``Metodologia BEM`` 
+  - ``HTML`` 
+  - ``CSS``
