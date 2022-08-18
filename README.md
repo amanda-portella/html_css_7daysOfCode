@@ -4,6 +4,8 @@
 
   O projeto foi enviado por uma empresa de TI, através de um design do Figma, parar criar uma página de contratações e vagas abertas.
   
+  ![Imagem do projeto](https://i.imgur.com/qQofPmL.png)
+  
   
 ### Deploy do Projeto
   Link:  https://amanda-portella.github.io/html_css_7daysOfCode/
